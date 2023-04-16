@@ -1,4 +1,4 @@
-<<<<<<<<<<<<<<<<<<<<<BACKGROUND COLORS CHANGE>>>>>>>>>>>>>>>>>>>>>
+---------------BACKGROUND COLORS CHANGE--------------------
 
 1.- INDEX.HTML
     - IN THE HEAD FIRST ADD AN TITLE, STYLES LINK AND BOOTSTRAP CDN
