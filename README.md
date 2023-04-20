@@ -1,4 +1,3 @@
-
 # Color-Changing Button
 This project is a simple webpage that features a button in the center. When the button is clicked, the background color of the page changes to a different color. The goal of this project is to demonstrate the use of HTML, CSS, JavaScript, and Bootstrap to create a responsive and interactive webpage.
 
